@@ -1,4 +1,6 @@
-B# RSA-Factoring-Challenge
+# RSA Factoring Challenge
+This repo is just an attempt to read in and factorize a file of numbers.
 
-- factors - Factorize as many numbers as possible into a product of two smaller numbers
-- rsa - RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that n = p  q. The problem is to find these two primes, given only n.
+## Description of what each file shows:
+* factors - the program to factorize (Usage: time ./factors tests/test00)
+* tests/test00 - the file with the numbers
